@@ -20,10 +20,6 @@
     "pro-test": {
       "root": "pro-test",
       "framework": "vite"
-    },
-    "src-tauri": {
-      "root": "src-tauri",
-      "runtime": "rust"
     }
   },
   "rewrites": [
