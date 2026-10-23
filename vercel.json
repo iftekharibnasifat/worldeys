@@ -21,10 +21,6 @@
       "root": "pro-test",
       "framework": "vite"
     },
-    "python": {
-      "root": "sdk/python",
-      "runtime": "python"
-    },
     "src-tauri": {
       "root": "src-tauri",
       "runtime": "rust"
