@@ -1,4 +1,3 @@
-
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "services": {
@@ -16,7 +15,6 @@
     },
     "verification-desk": {
       "root": "demos/verification-desk",
-      "runtime": "node",
       "entrypoint": "server.mjs"
     },
     "pro-test": {
